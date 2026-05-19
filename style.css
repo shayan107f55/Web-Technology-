@@ -1,0 +1,14 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+}
+
+.external-heading {
+    color: darkred;
+    text-align: center;
+}
+
+.external-para {
+    color: navy;
+    font-size: 18px;
+}
